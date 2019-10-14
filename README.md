@@ -20,5 +20,16 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+login
+![image](https://github.com/lucas3414/luffy/blob/master/src/assets/images/login.png)
 
-![image] https://github.com/lucas3414/luffy/blob/master/src/assets/images/login.png
+index
+![image](https://github.com/lucas3414/luffy/blob/master/src/assets/images/index.png)
+
+role
+![image](https://github.com/lucas3414/luffy/blob/master/src/assets/images/role.png)
+
+right
+![image](https://github.com/lucas3414/luffy/blob/master/src/assets/images/right.png)
+
+
