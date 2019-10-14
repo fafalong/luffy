@@ -7,7 +7,7 @@
           <div class="grid-content bg-purple"><img src="" alt="无法显示图片"></div>
         </el-col>
         <el-col :span="18" class="middle">
-          <h3> luffy测试平台 </h3>
+          <h3> luffy 冲鸭 </h3>
         </el-col>
         <el-col :span="2" class="loginout">
           <a href="" @click.prevent="logout">退出</a>
